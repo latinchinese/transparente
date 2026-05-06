@@ -1,1 +1,1 @@
-# transparente
+# trans
